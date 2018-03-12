@@ -1,4 +1,13 @@
 # Laser-Clean
+
+Nom d'équipe : * O
+Membre :
+Virginie GRANON        groupe D
+Grégoire ANGEBAUD      groupe D
+Jérome PAN             groupe D
+Andrea LEO             groupe PL
+Darius DALEBA          groupe PL   
+
 <p> Le but du jeu </p>
   
   Le but du jeu est simple, être le dernier à survivre dans une arène qui peut acueillir 2 à 26 joueurs. L'arène se présente sous forme
