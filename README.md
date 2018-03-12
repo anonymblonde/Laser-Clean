@@ -1,7 +1,7 @@
 # Laser-Clean
 
 <li>Nom d'équipe : * O </li>
-Membre : 
+<p> Membre : </p>
 <li> Virginie GRANON        groupe D </li>
 <li> Grégoire ANGEBAUD      groupe D </li>
 <li> Jérome PAN             groupe D </li>
