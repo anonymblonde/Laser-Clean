@@ -2,11 +2,11 @@
 
 Nom d'équipe : * O
 Membre :
-<l> Virginie GRANON        groupe D </l>
-<l> Grégoire ANGEBAUD      groupe D </l>
-<l> Jérome PAN             groupe D </l>
-<l> Andrea LEO             groupe PL </l>
-<l> Darius DALEBA          groupe PL </l>   
+<li> Virginie GRANON        groupe D </li>
+<li> Grégoire ANGEBAUD      groupe D </li>
+<li> Jérome PAN             groupe D </li>
+<li> Andrea LEO             groupe PL </li>
+<li> Darius DALEBA          groupe PL </li>   
 
 <p> Le but du jeu </p>
   
